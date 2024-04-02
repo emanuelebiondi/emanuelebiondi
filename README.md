@@ -1,4 +1,3 @@
-### Hi there 👋
 - 👋 Hi, I’m @emanuelebiondi
 - 🔭 I'm currently attending bachelor in Computer Engineering at University of Pisa
 
